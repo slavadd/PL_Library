@@ -1,0 +1,12 @@
+
+1212		dvd		proba		film		2015
+
+3012		cd		mtv		rap		2003
+
+8181		kniga		slater		smart		2014
+
+4242		kniga		king		it		1986
+
+7373		kniga		austen		emma		1986
+
+2929		spisanie		 eva		moda-esen		 2010

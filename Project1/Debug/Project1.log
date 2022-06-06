@@ -1,0 +1,13 @@
+﻿  Book.cpp
+  Issuebook.cpp
+E:\Пети семестър ТУ\Програмни езици\26.12 proben proekt\Dokumentaciq\MyProject\Project1\Project1\Issuebook.cpp(179,10): warning C4101: 'Rno': unreferenced local variable
+E:\Пети семестър ТУ\Програмни езици\26.12 proben proekt\Dokumentaciq\MyProject\Project1\Project1\Issuebook.cpp(179,6): warning C4101: 'ID': unreferenced local variable
+  Main.cpp
+E:\Пети семестър ТУ\Програмни езици\26.12 proben proekt\Dokumentaciq\MyProject\Project1\Project1\Main.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Пети семестър ТУ\Програмни езици\26.12 proben proekt\Dokumentaciq\MyProject\Project1\Project1\Main.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Пети семестър ТУ\Програмни езици\26.12 proben proekt\Dokumentaciq\MyProject\Project1\Project1\Main.cpp(7,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+E:\Пети семестър ТУ\Програмни езици\26.12 proben proekt\Dokumentaciq\MyProject\Project1\Project1\Main.cpp(8,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Returnbook.cpp
+  Student.cpp
+  Generating Code...
+  Project1.vcxproj -> E:\Пети семестър ТУ\Програмни езици\26.12 proben proekt\Dokumentaciq\MyProject\Project1\Debug\Project1.exe
